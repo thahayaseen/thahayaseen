@@ -33,4 +33,4 @@ I'm passionate about web development using the MERN (MongoDB, Express.js, React,
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/thahayaseen)
+⭐️ From [Thaha Yaseen](https://github.com/thahayaseen)
