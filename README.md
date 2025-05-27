@@ -58,18 +58,18 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thahayaseen/" target="_blank">
+  <a href="https://www.linkedin.com/in/thaha-yaseen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/thahayaseen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/thahayaseen/" target="_blank">
+  <a href="https://leetcode.com/u/5yCmLGJTy6/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/thaha._.yaseen/" target="_blank">
+<!--   <a href="https://www.instagram.com/thaha._.yaseen/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
