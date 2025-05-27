@@ -13,7 +13,7 @@
 - 🚀 Built an **E-learning platform** with real-time chat, video calling, course tracking, and secure payments
 - 🧠 Currently learning advanced DevOps and performance optimization with **Redis** and **Docker**
 - 🌐 Experienced with deploying apps on **AWS EC2**, **S3**, and **Google Cloud**
-- 📫 Reach me at: [thahayaseenk@gmail.com](mailto:thahayaseenk@gmail.com)
+- 📫 Reach me at: [kthahayaseen@gmail.com](mailto:kthahayaseen@gmail.com)
 
 ---
 
