@@ -64,7 +64,7 @@
   <a href="https://github.com/thahayaseen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/5yCmLGJTy6/" target="_blank">
+  <a href="https://leetcode.com/u/thahayaseen/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 <!--   <a href="https://www.instagram.com/thaha._.yaseen/" target="_blank">
